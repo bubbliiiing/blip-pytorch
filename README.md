@@ -16,8 +16,8 @@ torch==1.7.1以上
 
 ### 文件下载  
 训练所需的pth可以在百度网盘下载。       
-链接: https://pan.baidu.com/s/1b9Nt-UuqOJfhbhJYVyrK0g     
-提取码: mfnc     
+链接: https://pan.baidu.com/s/1Wx6COhH-iZY1TLKObwCV-g?pwd=u6ed   
+提取码: u6ed   
 
 ## 预测步骤
 ### a、使用预训练权重
